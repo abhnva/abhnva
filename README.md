@@ -1,6 +1,8 @@
 <div align=center>
+
+  <img src="./Assets/grinning-face.png" height=90>
   
-  # 👋 Hi, I'm Abhinav. A
+  # Hi, I'm Abhinav. A
   
   [![Linux](https://img.shields.io/badge/Linux-1a1927?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/abhnva)
   [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-1a1927?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/abhnva)
