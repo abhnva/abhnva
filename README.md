@@ -15,4 +15,10 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhnva&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/abhnva)
   
+  ## My Favourite Repositories
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhnva&repo=dfetch&theme=tokyonight&hide_border=true)](https://github.com/abhnva)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spacedriveapp&repo=spacedrive&theme=tokyonight&hide_border=true)](https://github.com/spacedriveapp/spacedrive)
+  
 </div>
