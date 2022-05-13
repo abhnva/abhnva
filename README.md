@@ -1,6 +1,6 @@
 <div align=center>
 
-  <img src="./Assets/grinning-face.png" height=90>
+  <img src="./Assets/grinning-face.png" height=91>
   
   # Hi, I'm Abhinav. A
   
