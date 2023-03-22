@@ -4,7 +4,6 @@
   
   # Hi, I'm Abhinav. A
   
-  [![OS](https://img.shields.io/badge/Pop!__OS-1a1927?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com)
   [![Code Editor](https://img.shields.io/badge/Visual_Studio_Code-1a1927?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhnva&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/abhnva)
